@@ -1,0 +1,13 @@
+h1{
+    font-size: 2rem;
+    color: darkslategrey;
+    font-style: unset;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+p{
+    font-size: 1rem;
+    color: darkorange;
+    font-style: italic;
+}
